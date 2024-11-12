@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently working on learning how to use API's such as for Valorant. \
-I’m currently learning C and trying to do easy and medium Leetcodes after completing CSCA48 and will learn Java for my upcoming course CSCB07
+I’m currently a UTSC Management and IT student and will be graduating in 2025 Summer!
